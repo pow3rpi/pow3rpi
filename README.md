@@ -1,9 +1,25 @@
-# ⚡ About Me
-I am always looking for new opportunities. 
-<br>I am ready to collaborate on the projects connected with:
-* Data Science
-* WEB development
-* Blockchain
+![MasterHead](img/banner.png)
+
+<h1 align="center">Hi 👋, I'm Iurii</h1>
+<h3 align="center">🚀 ML Engineer | Data Scientist | Translating Data into Strategic Success 🎯</h3>
+
+<img align="right" alt="coding" width="400" src="img/coding.gif"/>
+
+<br/>
+
+- 🔭 Open to offers and collaborations in AI, ML and related fields.
+
+- 🎓 Data Science Graduate.
+
+- 📈 Passionate about scaling AI solutions from prototypes to production.
+
+- 💬 Open to conversations about research-to-product translation, MLOps and model optimization.
+
+- ⚙️ Experienced in fine-tuning large language models for domain-specific tasks.
+
+- 🔍 Passionate about building end-to-end ML workflows, from data ingestion to deployment.
+
+-  <img src="https://komarev.com/ghpvc/?username=pow3rpi&&style=flat-square" align="center" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
@@ -82,6 +98,8 @@ I am always looking for new opportunities.
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pow3rpi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pow3rpi&icon=0&color=0)](https://visitcount.itsvg.in)
